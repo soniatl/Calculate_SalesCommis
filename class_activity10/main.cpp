@@ -24,7 +24,7 @@ int main()
     cout <<"Enter the total sales value: ";
     cin >> sales;
     
-    if (double salesValue = 10000) {
+    if (sales <= 10000) {
         <#statements#>
     } else {
         <#statements#>
